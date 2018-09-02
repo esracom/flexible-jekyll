@@ -2,7 +2,7 @@
 layout: post
 title: Bootstrap Nedir??
 date: 2018-09-03 00:00:00 +0300
-img: software.jpg # Add image post (optional)
+img: bootstrap.jpg # Add image post (optional)
 tags: [bootstrap, responsive] # add tag
 ---
 

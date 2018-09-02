@@ -2,7 +2,7 @@ baseurl: "https://esracom.github.io/flexible-jekyll" # the subpath of your site,
 url: "https://esracom.github.io/flexible-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author: Esra LAĞAMCIOĞLU # add your name
-author-img: esra.jpg
+author-img: david-freeman.jpg
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: https://twitter.com/elfsrzhra
 

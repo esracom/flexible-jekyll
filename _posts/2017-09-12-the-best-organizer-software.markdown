@@ -18,4 +18,5 @@ Bootstrap twitter’ ın arayüz geliştiricileri ile  2010'da başlanılan bu p
 
 Merhaba Arkadaşlar, 
 Bootstrap ile tanışırken anladıklarımı , öğrenip kavradıklarımı paylaşacağım sizlerle. 
-Bootstrap twitter’ ın arayüz geliştiricileri ile  2010'da başlanılan bu proje şu an Dünya’ nın en iyileri arasında yer almaktadır. esrapalwdiapwlöapwldöişplwödşpawldipdwlpdwl
+Bootstrap twitter’ ın arayüz geliştiricileri ile  2010'da başlanılan bu proje şu an Dünya’ nın en iyileri arasında yer almaktadır. esrapalwdiapwlöapwldöişplwödşpawldipdwlpdwllşelfskd
+sdhyjgfas
